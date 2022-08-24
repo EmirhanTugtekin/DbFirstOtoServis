@@ -1,2 +1,0 @@
-G:\visual studio projects\OtoServisDbFirst\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.AssemblyReference.cache
-G:\visual studio projects\OtoServisDbFirst\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
