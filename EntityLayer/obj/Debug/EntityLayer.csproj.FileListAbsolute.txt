@@ -1,0 +1,12 @@
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\bin\Debug\EntityLayer.dll.config
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\bin\Debug\EntityLayer.dll
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\bin\Debug\EntityLayer.pdb
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\bin\Debug\EntityFramework.dll
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\bin\Debug\EntityFramework.xml
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\obj\Debug\EntityLayer.dll
+G:\visual studio projects\OtoServisDbFirst\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,15 @@
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\BusinessLayer.dll
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\BusinessLayer.pdb
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\EntityLayer.dll
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\FacadeLayer.dll
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\EntityFramework.dll
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\EntityLayer.pdb
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\EntityLayer.dll.config
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\FacadeLayer.pdb
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\FacadeLayer.dll.config
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\bin\Debug\EntityFramework.xml
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\obj\Debug\BusinessLayer.dll
+G:\visual studio projects\OtoServisDbFirst\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3c155cd59c3245f08098e3e2bcb7de9a" Name="Diagram1">
+        <EntityTypeShape EntityType="DbOtoServisModel.TblAdmin" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOtoServisModel.TblBrand" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOtoServisModel.TblCustomer" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOtoServisModel.TblHistory" Width="1.5" PointX="5.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOtoServisModel.TblMechanic" Width="1.5" PointX="0.75" PointY="9.125" IsExpanded="true" />
+        <AssociationConnector Association="DbOtoServisModel.FK_TblCustomer_TblAdmin" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOtoServisModel.FK_TblCustomer_TblBrand1" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOtoServisModel.FK_TblCustomer_TblMechanic" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOtoServisModel.FK_TblHistory_TblCustomer" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

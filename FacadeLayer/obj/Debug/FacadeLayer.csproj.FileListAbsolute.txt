@@ -1,0 +1,15 @@
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\obj\Debug\FacadeLayer.csproj.AssemblyReference.cache
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\obj\Debug\FacadeLayer.csproj.CoreCompileInputs.cache
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\FacadeLayer.dll.config
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\FacadeLayer.dll
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\FacadeLayer.pdb
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\EntityFramework.dll
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\EntityLayer.dll
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\EntityLayer.pdb
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\EntityLayer.dll.config
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\EntityFramework.xml
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\obj\Debug\FacadeLayer.dll
+G:\visual studio projects\OtoServisDbFirst\FacadeLayer\obj\Debug\FacadeLayer.pdb
